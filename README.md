@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aachintya Wairiya</h1>
 <h3 align="center">A passionate problem solver from Prayagraj</h3>
 
-- 🔭 I’m currently working on [ConstellationView](https://github.com/aachintya/ConstellationView)
-
-- 🌱 I’m currently learning **Go**
+- 🔭 I’m currently working on [Stella](https://github.com/aachintya/stella)
 
 - 📫 How to reach me **aachinty11@gmail.com**
 
