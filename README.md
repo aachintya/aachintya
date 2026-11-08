@@ -18,17 +18,16 @@
 
 - 🌌 **[Stella](https://github.com/aachintya/stella)**: planetarium app on the Stellarium web engine (C core, Kotlin Android shell)
 - 🧬 **[LesionLab](https://github.com/aachintya/LesionLab)**: multi-modal model for skin cancer detection (images + clinical metadata)
-- 🏆 Competitive programming: **[Codeforces](https://codeforces.com/profile/aachintyaw)** · **[LeetCode](https://www.leetcode.com/aachintyaw)**
 
 ## 🚀 Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | **[Stella](https://github.com/aachintya/stella)** | Offline-capable sky viewer built on the Stellarium engine | `C` `Kotlin` |
-| **[DenoiseX](https://github.com/aachintya/DenoiseX)** | Enhances dim-light photos while suppressing noise. [Add: before/after image] | `Python` `OpenCV` |
+| **[DenoiseX](https://github.com/aachintya/DenoiseX)** | Enhances dim-light photos while suppressing noise. | `Python` `OpenCV` |
 | **[Vayureader](https://github.com/Nishant040305/vayureader)** | Secure PDF management platform: backend, admin dashboard, and mobile app | `JavaScript` `Node.js` |
 | **[Astara](https://github.com/DesolateSea/Astara-original)** | Mobile night-sky explorer (collaboration) | `C` |
-| **[LesionLab](https://github.com/aachintya/LesionLab)** | Multi-modal skin lesion classifier. [Add: dataset, metric, e.g. "AUC 0.9x on ISIC"] | `Python` `PyTorch` |
+| **[LesionLab](https://github.com/aachintya/LesionLab)** | Multi-modal skin lesion classifier. | `Python` `PyTorch` |
 
 <details>
 <summary><b>More projects</b></summary>
